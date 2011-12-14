@@ -1,0 +1,12 @@
+{ "name": "Automated Testing of Mobile Applications", 
+  "sections": 
+    [ 
+      {"section":"intro"},
+      {"section":"background"},
+      {"section":"android"},
+      {"section":"ios"},
+      {"section":"others"},
+      {"section":"web"},
+      {"section":"thanks"}
+    ]
+}
