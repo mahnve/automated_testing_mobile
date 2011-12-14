@@ -1,7 +1,7 @@
 !SLIDE center
 
-Behaviour Driven Javascript
-===========================
+Automatic Testing of Mobile Applications
+========================================
 
 Marcus Ahnve  
 Valtech AB   

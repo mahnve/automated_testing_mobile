@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024px"
-   height="768px"
+   width="990"
+   height="610"
    id="svg2816"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -182,8 +182,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="453.36364"
-     inkscape:cy="331.70867"
+     inkscape:cx="436.36364"
+     inkscape:cy="252.70867"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
@@ -193,7 +193,11 @@
      inkscape:window-y="17"
      inkscape:window-maximized="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid2826"
@@ -203,7 +207,7 @@
        snapvisiblegridlinesonly="true" />
     <sodipodi:guide
        orientation="1,0"
-       position="-120,80"
+       position="-137,1"
        id="guide3887" />
   </sodipodi:namedview>
   <metadata
@@ -221,7 +225,8 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-17,-79)">
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
@@ -230,7 +235,9 @@
        id="text2944"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2946" /></text>
+         id="tspan2946"
+         x="264"
+         y="401" /></text>
     <g
        id="g3945"
        transform="translate(7,-49)">

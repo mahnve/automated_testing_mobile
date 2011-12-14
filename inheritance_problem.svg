@@ -24,9 +24,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.75940959"
-     inkscape:cx="648.8217"
+     inkscape:cx="484.87855"
      inkscape:cy="383.50514"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4597"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="1596"
@@ -96,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -146,14 +146,14 @@
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-         x="512.54688"
+         x="512.23438"
          y="658.40039"
          id="text3629"><tspan
            sodipodi:role="line"
-           x="512.54688"
+           x="512.23438"
            y="658.40039"
            id="tspan3633"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Nunito;-inkscape-font-specification:Nunito Bold">Anything Android</tspan></text>
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Nunito;-inkscape-font-specification:Nunito Bold">Anything Mobile</tspan></text>
       <image
          y="154.34311"
          x="365.17157"
@@ -176,5 +176,5 @@
            height="229.12537"
            x="-98.760933"
            y="-27.354717" /></flowRegion><flowPara
-         id="flowPara4576"></flowPara></flowRoot>  </g>
+         id="flowPara4576" /></flowRoot>  </g>
 </svg>

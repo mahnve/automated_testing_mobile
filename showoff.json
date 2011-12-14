@@ -3,10 +3,7 @@
     [ 
       {"section":"intro"},
       {"section":"background"},
-      {"section":"android"},
-      {"section":"ios"},
-      {"section":"others"},
-      {"section":"web"},
+      {"section":"main"},
       {"section":"thanks"}
     ]
 }

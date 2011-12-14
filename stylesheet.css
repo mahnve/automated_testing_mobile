@@ -1,7 +1,9 @@
-@font-face { font-family: Mentone; src('mentone-semibold.ttf'); }
+@font-face { font-family: Nunito; src: url('Nunito-Regular.ttf'); }
+@font-face { font-family: Nunito-Bold; src: url('Nunito-Bold.ttf'); }
+@font-face { font-family: DejaVuMono;  src: url('DejaVuSansMono.ttf'); }
 
-.content {
-  font-family: Mentone;
+.commandline {
+  font-family: DejaVuMono, monospace;
 }
 
 
@@ -12,6 +14,14 @@
   list-style: inside disc none;
 }
 
+h1, h2, h3 {
+  font-family: Nunito-Bold, Helvetica, Arial, Sans-Serif;
+}
+
+.content {
+  font-family: Nunito, Helvetica, Arial, Sans-Serif;
+}
+
 .content ul li ul li {
   text-indent: 30px;
   color: blue;
@@ -19,6 +29,11 @@
 
 .content code {
   font-size: 24px;
+}
+
+.content p {
+  line-height: 120%;
+}
 }
 
 .content blockquote {
