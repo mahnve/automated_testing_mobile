@@ -4,7 +4,8 @@ Automatic Testing of Mobile Applications
 ========================================
 
 Marcus Ahnve  
-Valtech AB   
+Valtech AB 
+
 <marcus.ahnve@valtech.se>  
 [@mahnve](http://www.twitter.com/mahnve)  
 
@@ -16,3 +17,5 @@ Valtech AB
 # About me 
 
 * Playing Agile Coach
+* Developed software professionally since 1996
+* Rubyist

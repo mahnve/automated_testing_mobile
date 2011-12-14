@@ -12,6 +12,8 @@
   text-align: left;
   font-size: 40px;
   list-style: inside disc none;
+  padding: 25px 50px;
+  text-indent: -1em;
 }
 
 h1, h2, h3 {
@@ -23,8 +25,10 @@ h1, h2, h3 {
 }
 
 .content ul li ul li {
-  text-indent: 30px;
-  color: blue;
+  font-size: 0.8em;
+}
+
+li {
 }
 
 .content code {
@@ -32,7 +36,7 @@ h1, h2, h3 {
 }
 
 .content p {
-  line-height: 120%;
+  line-height: 110%;
 }
 }
 
